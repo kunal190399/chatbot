@@ -2,7 +2,7 @@ import openai
 import random
 
 # Set your OpenAI API key
-openai.api_key = 'your_api_key_here'
+openai.api_key = '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'
 
 # Define responses for the chatbot
 GREETING_INPUTS = ["hello", "hi", "greetings", "sup", "what's up", "hey"]
